@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="address">2465 Latham St. Mountain View, CA 94043 </string>
+    <string name="phone">650.555.5555</string>
+    <string name="web">www.udacity.com</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google+</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="linkedin">Linkedin</string>
+</resources>
